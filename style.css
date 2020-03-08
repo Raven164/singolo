@@ -340,13 +340,10 @@ margin-left: 11px;
     border-bottom: 6px solid #ffffff;
 }
 
-.wrapper {
-    width: 1020px;
+.about-us .wrapper {
+    width: 950px;
     margin: 0 auto;
     padding: 0 40px;
-}
-
-.about-us .wrapper {
     height: 728px;
     display: flex;
     flex-direction: column;
@@ -370,7 +367,9 @@ margin-left: 11px;
     line-height: 30px;
     margin-top: 16px;
     margin-bottom: 0px;
-    word-spacing: 1.3px;
+    word-spacing: -.3px;
+    text-align: justify;
+    letter-spacing: -0.1px;
 }
 
 .layout-3-column {
