@@ -310,18 +310,18 @@ margin-left: 11px;
   overflow: hidden;
 }
 .projects-container div:first-child{
-  background-image:url(assets/portfolio/project1.png);
+  background-image:url(assets/portfolio/Project1.png);
   background-position-x: 45%;
   background-position-y: 22%;
 }
 .projects-container div:nth-child(2){
-  background-image: url(assets/portfolio/project2.png);
+  background-image: url(assets/portfolio/Project2.png);
   background-position-x: 57%;
   background-position-y: 50%;
 }
 
 .projects-container div:nth-child(3){
-  background-image: url(assets/portfolio/project3.png);
+  background-image: url(assets/portfolio/Project3.png);
   background-position-x: 37%;
   background-position-y: 1%;
 }
